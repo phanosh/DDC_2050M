@@ -1,0 +1,163 @@
+By downloading and using our software, you agree to these terms and conditions.
+
+Terms Of Use
+Last updated: 10 June 2024.
+ 
+THE SOFTWARE BEING ACQUIRED IS PROVIDED UNDER LICENSE FROM DATADRIVENCONSTRUCTION, NOT BOUGHT, AND FALLS UNDER THE CONDITIONS OF THIS EVALUATION LICENSE AGREEMENT. BY SELECTING THE "I AGREE" OPTION, OR THROUGH ANY FORM OF ACCESS OR USE OF THE SOFTWARE, YOU CONFIRM YOUR UNDERSTANDING AND ACCEPTANCE OF THE CONDITIONS LAID OUT IN THIS EVALUATION LICENSE AGREEMENT.
+
+BACKGROUND
+DataDrivenConstruction (DDC) provides an extensive set of applications, software and technology solutions designed to different data formats in the construction industry. Licensee seeks to explore the full potential of DDC applications to determine their applicability and effectiveness in its own projects. DDC is willing to offer Licensee access to the full suite of its proprietary software for the sole purpose of enabling such research and evaluation ("Evaluation Purpose"), subject to the terms and conditions set forth in this Agreement.
+
+
+Limited License
+1.1 Grant. DDC shall provide the Licensee with an evaluation version of DDC's software solutions in binary form, intended exclusively for data-driven construction projects ("Software"). Subject to the terms of this Agreement, DDC grants the Licensee a limited, nonexclusive, revocable, royalty-free license, without the right to transfer or sublicense. The Licensee is permitted to use the Software within their own organization at the specified location below the Licensee’s signature on this Agreement, and solely for the evaluation of the Software's applicability to their projects for a "Evaluation Period". The Licensee is prohibited from copying or distributing the Software, either directly or indirectly, alone or incorporated into any other product.
+
+1.2 Restrictions. DDC retains all rights to the Software not explicitly granted to the Licensee. No ownership or proprietary rights of the Software are transferred to the Licensee. The Software must be used solely as described herein and in accordance with this Agreement's terms.
+
+2. Support. During the Evaluation Period, DDC will offer limited technical support, primarily through access to DDC’s technical support resources. No additional support will be provided.
+
+3. Term; Termination
+
+3.1 Termination by Licensee. The Licensee can terminate this Agreement at any time with written notice to DDC, though such termination does not waive any prior incurred obligations or liabilities.
+
+3.2 Termination by DDC. DDC may terminate this Agreement if the Licensee breaches any condition herein.
+
+3.3 Effect of Termination. Upon termination, all granted rights revert immediately. The Licensee must then destroy the Software, certify its destruction to DDC, and return any confidential information.
+
+ 4 Representations and Warranties of Licensee. The Licensee assures that the agreement is legally binding and within their power to agree to and fulfill.
+
+ 5 Indemnification. The Licensee agrees to protect, indemnify, and hold harmless DDC against all claims, losses, or damages arising from the use of the Software, any breach of this Agreement, or any misrepresentation made herein.
+
+6 Warranty Disclaimer. The Software is provided "AS IS" without warranties of any kind. DDC disclaims all warranties, whether express or implied.
+
+7 Confidentiality. The Licensee agrees not to disclose or use DDC's Confidential Information except as necessary for the evaluation. "Confidential Information" encompasses all non-public data and information related to DDC's solutions, excluding anything the Licensee can prove is publicly known or independently developed without access to DDC's Confidential Information.
+
+8 Limitation of Liability. DDC will not be liable for any indirect, incidental, or consequential damages under this Agreement, except in cases of willful misconduct or confidentiality breaches.
+
+9 Nonwaiver. Failure to enforce any part of this Agreement does not constitute a waiver of any rights.
+
+10 Exclusion of Uniform Laws. This Agreement is not governed by any uniform commercial code or international sale of goods laws.
+
+11 No Construction Against Drafter. Any ambiguity will not automatically be construed against the drafter.
+
+12 Modifications and Amendments. Any amendments to this Agreement must be in writing and signed by both parties.
+
+13 Entire Agreement. This document constitutes the full agreement between DDC and the Licensee, superseding all prior agreements.
+
+14 Survival. Certain sections will remain in effect even after the Agreement's termination.
+
+ 
+
+These Terms of Use are a legally binding agreement between you, whether individually or on behalf of an entity ("you"), and DataDrivenConstruction ("Big Data and Machine Learning in Construction"). This agreement governs your access to and use of our websites, which include but are not limited to:
+
+https://datadrivenconstruction.io/
+
+as well as any other forms of media, media channels, mobile websites, or mobile applications related, linked, or otherwise connected to these sites (collectively referred to as the "Websites"). By accessing the Websites, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use. IF YOU DO NOT AGREE WITH THESE TERMS, YOU MUST IMMEDIATELY STOP USING THE WEBSITES.
+
+Additional terms and conditions or documents posted on the Websites from time to time are also part of this agreement. We reserve the right to modify these Terms of Use at our discretion and at any time. Changes will be indicated by an updated "Last updated" date on these Terms of Use. You forfeit the right to specific notice of each change. Regularly reviewing these Terms of Use ensures you are aware of any updates. Your continued use of the Websites after updates are posted means you accept and agree to these changes.
+
+The content on the Websites is not meant for distribution to, or use by, any person or entity in jurisdictions or countries where such distribution or use would violate local laws or subject us to registration requirements within those jurisdictions or countries. Access to the Websites from other locations is done at the initiative of those individuals, who are solely responsible for compliance with applicable local laws.
+
+The Websites are intended for users who are at least 18 years old. Individuals under the age of 18 are not permitted to use or register for the Websites.
+
+Compliance with Laws: The User hereby agrees to comply with all applicable laws, regulations, and ordinances relating to export control, sanctions, and trade embargoes, including but not limited to those enforced by the United Nations, European Union, United States of America, and any other jurisdiction relevant to the User.
+
+Restriction on Use: The User is expressly prohibited from using, deploying, distributing, or providing access to the products provided by DataDrivenConstruction , within the geographic boundaries of the Russian Federation. This includes any territories administered or controlled by the Russian Federation.
+
+Warranty of Non-Use in Russia: The User warrants that they will not, under any circumstances, use the DataDrivenConstruction products such as themselves, or allow any third parties to use these products, within the Russian Federation. This applies to all activities including but not limited to accessing, installing, downloading, exporting, re-exporting, or providing through any means to individuals or entities located in the Russian Federation.
+
+Verification and Auditing: The User agrees to permit Data Driven Construction or its authorized representative, upon reasonable notice and during standard business hours, to review and verify the User's compliance with the terms of this section. The User agrees to cooperate fully with any such verification or audit and to provide access to all relevant records.
+
+Consequences of Violation: Any breach of this section by the User will be deemed a material breach of the Agreement, justifying immediate termination of the license granted herein without notice. Furthermore, the User acknowledges that such breach may subject them to severe legal penalties under the laws of their jurisdiction, international law, and the laws of any country concerned with the export and use of the products provided by DataDrivenConstruction.
+
+Privacy and Cookies: We use cookies, identifiers for mobile devices, and similar technologies to enhance your experience on our platform. By using our services, you consent to our use of these technologies as described in this agreement. Our website uses Google Analytics, a service provided by Google, Inc. (‘Google’), to analyze website traffic and user behavior. Google Analytics uses cookies and other tracking technologies to collect data about your use of our site. This data is used to improve our services and provide you with a better user experience. For more information on how Google collects and processes data, please visit Google's Privacy Policy.
+
+If you prefer not to allow cookies or similar technologies, most browsers and devices offer settings to disable them. Please note that disabling these technologies may affect the functionality and performance of our services. To opt-out of Google Analytics, you can use the Google Analytics Opt-out Browser Add-on.
+
+Indemnification: The User agrees to indemnify, defend, and hold harmless DataDrivenConstruction, its officers, directors, employees, agents, licensors, and suppliers from and against all losses, expenses, damages, and costs, including reasonable attorneys' fees, resulting from any violation of this section or any activity related to the User's account (including negligent or wrongful conduct) by the User or any other person accessing the products using the User's account.
+
+This Section shall survive the termination or expiration of this Agreement and shall remain in effect in perpetuity to the extent necessary to protect the legal and contractual rights of DataDrivenConstruction.
+
+  
+
+EULA
+END USER LICENCE AGREEMENT
+Last updated: 10 June 2024.
+
+This End User Licence Agreement ("EULA") is a legally binding contract between you, individually or representing a legal entity ("you"), and [Your Company Name] regarding your use of our desktop applications, including our main application and any related tools and Documentation (collectively, the "Software"). DO NOT INSTALL, USE OR COPY THE SOFTWARE UNLESS YOU AGREE TO ALL OF THE TERMS OF THIS AGREEMENT.
+
+SUMMARY.
+
+Use of the Software requires acceptance of all terms and conditions of this EULA.
+The Software is provided free of charge for any lawful purpose.
+The Software is provided "as is", without warranty, and we are not responsible for its use.
+It is recommended that you read the entire EULA to fully understand it.
+
+AGREEMENT.
+
+ By downloading, installing, using or copying the Software, you agree to this EULA. If you do not agree to any part of this EULA, you must not download, install, use or copy the Software.
+
+LICENCE.
+
+You are permitted to install multiple copies of the Software and use it for any lawful purpose in accordance with this EULA. This licence is subject to your agreement to this EULA. The Software is licensed, not sold, and we reserve all rights not expressly granted by this EULA.
+
+DATA COLLECTION
+
+We collect and process data using cookies, mobile device identifiers, and similar technologies to personalize content and ads, provide social media features, and analyze our traffic. This data may be shared with third-party analytics and advertising partners. By continuing to use our software, you agree to this data collection and processing.
+
+Our software integrates with Google Analytics to collect and process data about your interactions. For details on how Google Analytics handles data, please refer to Google’s Privacy Policy.
+
+LIMITATIONS.
+
+The Software must be used lawfully.
+You may not sell, rent, lease, lease or exchange the Software.
+
+ 
+
+Allgemeine Geschäftsbedingungen (AGB)
+Artem Boiko Obergrombacher Str. 31,
+76646 Bruchsal, Deutschland
+
+§1 Geltungsbereich
+
+Die vorliegenden Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Geschäftsbeziehungen zwischen Artem Boiko (nachfolgend „Verkäufer“) und dem Kunden (nachfolgend „Kunde“) in der zum Zeitpunkt des Vertragsschlusses gültigen Fassung.
+Abweichende, entgegenstehende oder ergänzende Allgemeine Geschäftsbedingungen des Kunden werden nur Bestandteil des Vertrags, soweit der Verkäufer ihrer Geltung ausdrücklich zugestimmt hat.
+§2 Vertragsgegenstand
+
+Der Verkäufer bietet über seinen Online-Shop Softwareprodukte und Bücher zum Thema Nutzung von Daten im Bauwesen zum Kauf an.
+Die Präsentation der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot dar. Es handelt sich um eine Aufforderung an den Kunden, dem Verkäufer ein verbindliches Angebot zu unterbreiten.
+§3 Vertragsschluss
+
+Der Vertrag kommt durch die Abgabe eines Angebotes durch den Kunden über das Online-Bestellformular des Verkäufers und der anschließenden Annahme durch den Verkäufer zustande.
+Der Kunde ist an sein Angebot für die Dauer von zwei Wochen nach dessen Abgabe gebunden. Der Verkäufer wird den Zugang des Angebots unverzüglich bestätigen.
+§4 Preise und Zahlungsbedingungen
+
+Alle Preise, die auf der Website des Verkäufers angegeben sind, verstehen sich einschließlich der gesetzlichen Umsatzsteuer.
+Der Kunde kann die Zahlung per Vorkasse, PayPal oder Kreditkarte vornehmen.
+Rechnungen sind innerhalb von 14 Tagen ab Rechnungsdatum ohne Abzüge zahlbar.
+§5 Lieferung und Eigentumsvorbehalt
+
+Die Lieferung von Softwareprodukten erfolgt in der Regel durch Bereitstellung eines Download-Links. Bücher werden per Post versendet.
+Die Ware bleibt bis zur vollständigen Bezahlung des Kaufpreises Eigentum des Verkäufers.
+§6 Gewährleistung
+
+Der Verkäufer haftet für Mängel nach den gesetzlichen Bestimmungen der Gewährleistung.
+Die Gewährleistungsfrist beträgt für Unternehmer 12 Monate.
+§7 Haftungsbeschränkung
+
+Der Verkäufer haftet uneingeschränkt für Vorsatz und grobe Fahrlässigkeit.
+Für leichte Fahrlässigkeit haftet der Verkäufer nur bei Verletzung wesentlicher Vertragspflichten.
+§8 Schlussbestimmungen
+
+Änderungen und Ergänzungen dieses Vertrags bedürfen der Schriftform.
+Auf diesen Vertrag findet das Recht der Bundesrepublik Deutschland Anwendung. Die Anwendung des UN-Kaufrechts ist ausgeschlossen.
+Gerichtsstand für alle Streitigkeiten aus diesem Vertrag ist der Geschäftssitz des Verkäufers, sofern der Kunde Kaufmann, eine juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist.
+Stand: 03.2024
+
+ 
+Kontakt
+E-Mail:
+info@datadrivenconstruction.io
+
+Kontaktformular:
+https://datadrivenconstruction.io/index.php/contact-support/
